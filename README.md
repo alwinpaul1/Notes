@@ -15,4 +15,4 @@ This is a personal repository for organizing and storing my notes, ideas, and do
 
 ---
 
-*Last updated: $(date)*
+*Last updated: August 26, 2025*
