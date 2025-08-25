@@ -16,7 +16,7 @@ Here’s a step-by-step trick to generate the perfect coding projects using Chat
 Based on the screenshot I provided, which shows a full list of available AI models on huggingface.co, come up with a unique and technically impressive coding project that would:  
 
 - Stand out in the 2025 job market  
-- Be portfolio-worthy for a software engineer  
+- Be portfolio-worthy for an AI Engineer
 - Integrate one or more of the tasks shown in the screenshot  
 - Be feasible for a solo engineer or small team to build in 1–3 months  
 - Utilize real-world data APIs and practical scenarios  
