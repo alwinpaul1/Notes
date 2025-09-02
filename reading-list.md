@@ -5,8 +5,8 @@ Curated links to materials worth reading. Add items under the appropriate sectio
 Legend: 🟡 = Good read; 🟢 = Optional
 
 ### Articles & Blog Posts
-- 🟡 ColPali visual RAG guide and resources (LinkedIn, 2025) — Post covering ColPali (PaliGemma × ColBERT), Vespa indexing, and visual RAG examples [link](https://www.linkedin.com/posts/shantanuladhwe_this-is-the-best-place-to-learn-advanced-activity-7367779423221174272-RxEy?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC-qZCEBPVFJCaeaRF_thmCiM1ol1oVc7dA) (added 2025-09-02)
-- 🟡 Enhanced Agentic RAG (Uber Engineering Blog, 2025) — Uber’s design for agentic RAG orchestration and improvements over classical RAG [link](https://www.uber.com/en-DE/blog/enhanced-agentic-rag/) (added 2025-09-02)
+- 🟡 Good read — ColPali visual RAG guide and resources (LinkedIn, 2025) — Post covering ColPali (PaliGemma × ColBERT), Vespa indexing, and visual RAG examples [link](https://www.linkedin.com/posts/shantanuladhwe_this-is-the-best-place-to-learn-advanced-activity-7367779423221174272-RxEy?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC-qZCEBPVFJCaeaRF_thmCiM1ol1oVc7dA) (added 2025-09-02)
+- 🟡 Good read — Enhanced Agentic RAG (Uber Engineering Blog, 2025) — Uber’s design for agentic RAG orchestration and improvements over classical RAG [link](https://www.uber.com/en-DE/blog/enhanced-agentic-rag/) (added 2025-09-02)
 
 ### Research Papers
 - 
