@@ -25,6 +25,8 @@ Curated links to materials worth reading. Add items under the appropriate sectio
 - Transformer Lab — Open-source platform for training, finetuning, evals, and RAG tooling [link](https://transformerlab.ai/) (added 2025-09-02)
 - GitHub Topic: n8n templates — Curated repositories and examples for n8n workflow templates [link](https://github.com/topics/n8n-template) (added 2025-09-02)
 - n8n Workflows (Zie619) — Massive, organized collection of n8n workflows with fast search and docs [link](https://github.com/Zie619/n8n-workflows.git) (added 2025-09-02)
+- n8n Free Templates — 200+ ready-to-import workflows across domains, AI & automation [link](https://github.com/wassupjay/n8n-free-templates) (added 2025-09-02)
+- AI Agents A–Z — Practical n8n-based AI automation projects and servers [link](https://github.com/gyoridavid/ai_agents_az) (added 2025-09-02)
 
 ### To Read Soon
 - 
